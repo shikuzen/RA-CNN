@@ -16,11 +16,11 @@ There are totally 360 files. There are 3 files type include
 **Note**: RA-CNN only predicts $r$ and $\theta$.
 
 ## Our setup
-<br/><img src="model_racnn.jpg" width="100%" height="50%">
+<br/><img src="fig/model_racnn.jpg" width="100%" height="50%">
 
 **Fig. 1.** Overview of our study and setup.
 
-<br/><img src="state_setup.jpg" width="100%" height="50%">
+<br/><img src="fig/state_setup.jpg" width="100%" height="50%">
 
 **Fig. 2.** Our experiment setup consists of a 3D-printed ball track connected to air pumps to drive the ball, an FMCW radar held by a robotic arm, and a
 webcam to collect the ground-truth ball locations. We designed 3 different track shapes, and on the bottom right, we show superimposed visualizations of the
