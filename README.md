@@ -13,7 +13,7 @@ There are totally 360 files. There are 3 files type include
 2. raw_signal_imag_x > (samples, chirps, ADC samples, TX/RX) > shape (340, 16, 512, 8) in each files.
 3. label_x > (samples, position) > shape (340, 3)<img src="https://render.githubusercontent.com/render/math?math=[r,\theta,\varphi]">
    
-**Note**: RA-CNN only predicts <img src="https://render.githubusercontent.com/render/math?math=r and \theta">.
+**Note**: RA-CNN only predicts <img src="https://render.githubusercontent.com/render/math?math=r"> and <img src="https://render.githubusercontent.com/render/math?math=\theta">.
 
 ## Our setup
 <br/><img src="fig/model_racnn.jpg" width="100%" height="50%">
